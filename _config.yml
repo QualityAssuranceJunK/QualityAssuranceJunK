@@ -14,12 +14,12 @@ author-img: focusbike.png # add your photo
 about-author: 자전거와 컴퓨터를 좋아하는 30대 철부지 # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-github: # add your Github handle
+social-linkedin: https://www.linkedin.com/in/junekeun-yang-424a4b115/
+social-email: junkune@gmail.com
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
